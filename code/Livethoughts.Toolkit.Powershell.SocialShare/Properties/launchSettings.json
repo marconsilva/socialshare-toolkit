@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Livethoughts.Toolkit.Powershell.SocialShare": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+      "commandLineArgs": " -NoProfile -NoExit -Command “Import-Module .\\Livethoughts.Toolkit.Powershell.SocialShare.dll”"
+    }
+  }
+}
